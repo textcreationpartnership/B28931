@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A request to the justices not to make convictions vvithout hearing the accusers and the accused face to face in matters about religion: according to the law of God (and the Roman laws,) in many scriptures cited both out of the Old and New Testament.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28931</idno><idno type="EEBO-CITATION">99828440</idno>
+  <idno type="VID">32854</idno>
+  <idno type="EEBO-PROQUEST">2240856281</idno>
+  
+            <idno type="STC">Wing R1120</idno>
+            <idno type="PROQUEST">99828440</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828440e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1857:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A request to the justices not to make convictions vvithout hearing the accusers and the accused face to face in matters about religion: according to the law of God (and the Roman laws,) in many scriptures cited both out of the Old and New Testament.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Work ends with: From the people called Quakers, first moneth, 1684.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Quotations --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+               <term type="topical_term">Roman law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32854:1"/>
+            <head>A REQUEST TO THE JUSTICES Not to Make Convictions Without Hearing the Accusers and the Accused Face to Face in Matters about RELIGION: According to the Law of God (and the Roman Laws,) in many SCRIPTURES cited both out of the OLD and NEW TESTAMENT.</head>
+            <p>WE do intreat the <hi>Iustices of Peace</hi> not take any Witness or Information from <hi>Informers</hi> against us, to convict us behind our backs, until you hear us together Face to Face: And we do be<g ref="char:EOLhyphen"/>lieve that would ease you of a great deal of Trouble in your Courts and Sessions: for in some places the
+<pb n="2" facs="tcp:32854:2"/> Justices have seen many of the Informers have sworn Falsly a<g ref="char:EOLhyphen"/>gainst us, to have been at a M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eting, when some of us the same time have been in the Cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try, and other<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave not been at a Meeti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g that day, as in several places have be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved in open Court; and the In<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormers have been cast: so that if we and our Accusers were bro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght face to face before a Justice of Peace be<g ref="char:EOLhyphen"/>fore Conviction many of our Causes would there end, and never trouble your Courts nor us further. And therefore we intreat you to Read these Scriptures following▪ and yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may see what the Law of God and the Roman Laws say in behalf of our Case.</p>
+            <p>
+               <hi>Nicodemus</hi> saith, (who was a Ruler of the <hi>Jews</hi>) when Christ was accused by the Officers of the <hi>Jews,</hi> and Chief Priests and Pharisees, <hi>Doth our Law judge a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Man before it heareth him, and knoweth what he doth?</hi> John 7.45.51. And was not the <hi>Jews Law,</hi> the <hi>Law of God?</hi> which <hi>Nicodemus</hi> calls <hi>Our Law.</hi>
+            </p>
+            <p>And the Lord said to <hi>Moses,</hi> the Chi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Magistrate, <hi>Both the Men between whom the Controvers<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is, shall stand before the Judge,</hi> &amp;c. <hi>And the Judge shall make diligent search; and if the Witness be a false Witness, and have testified falsly against his Brother; then shall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e do unto the false Witness, as he thought to have done against his Brother,</hi> Deut. 19.15, 16.</p>
+            <p>And <hi>Solomon</hi> saith, <hi>A False Witness shall not be unpunish<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; and he that tells Lies shall not escape,</hi> Prov. 9.5, 9. And <hi>Solomon</hi> heard the two Women concerning the dead and the living Child, Face to Face, 1 <hi>Kings</hi> 3.16.</p>
+            <p>And again, it is said, <hi>For all man<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of Trespasses,</hi> &amp;c. <hi>which a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other challengeth to be his; the Case of both Partys shall come before the Judge.</hi> [Mark, Both Partys] Exod. 22.9. And was not this the Law of God from Mount <hi>Sinai?</hi> that saith, <hi>Both Partys shall come before the Judge,</hi> &amp;c.</p>
+            <p>And the Lord said, <hi>The</hi> Jews <hi>were to have one manner of Law, as well for the Stranger, as for one of their own Country,</hi> i. the <hi>Jews,</hi> Lev. 24.22. So here was no hearing of any Case or Trespass to make any Conviction before the Judge, but Face to Face.</p>
+            <pb n="3" facs="tcp:32854:2"/>
+            <p>And when the Officers brought Christ Jesus before <hi>Caiaphas</hi> the High-Priest, where the Scribes and Elders were assembled; <hi>The Chief Priests and Elders, and all the Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsel sought False Wit<g ref="char:EOLhyphen"/>nesses against Jesus, to put him to Death, but found none; at last came two False Witn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sses,</hi> and said, <hi>This Fellow said, I am able to destroy the Temple of God, and build it again in three days,</hi> Mat. 26.59, 60, 61. John 18.12. Luke 22.5, 2.</p>
+            <p>Now here you may see in the High Priests Court, the False Witnesses were brought Face to Face against Jesus before the High Priest.</p>
+            <p>And after, when they led <hi>Jesus</hi> unto <hi>Pilate</hi> the Governour; the Chief Priests and Scribes stood up, and vehemently accused him; so <hi>Pilate</hi> the <hi>Roman</hi> Governour, heard Christ, and his False Accusers and Witnesses, namely, the Chief Priests and Scribes, Face to Face, before he condemned Christ, <hi>Luke</hi> 23. from 1. to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.</p>
+            <p>And the <hi>Roman</hi> Chief Captain of the Castle in <hi>Jerusalem,</hi> when <hi>Paul</hi> was accused of the <hi>Jews,</hi> commanded the Chief Priests which accused <hi>Paul,</hi> and their Counsel to appear before <hi>Paul</hi> and him Face to Face, and set <hi>Paul</hi> before them; so this <hi>Roman</hi> Captain, a Soldier, heard <hi>Paul</hi> and his Accusers Face to Face, in matter of Religion, and not only so, but delivered him out of their envious hands. A brave Act of a <hi>Roman</hi> Souldier, as you may see i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Acts</hi> 22.30. and 23.1, 2, 3, 4.</p>
+            <p>And this Captain sends <hi>Paul</hi> to <hi>Caesarea</hi> unto <hi>Faelix</hi> the Go<g ref="char:EOLhyphen"/>vernour, and gives a Relation how he heard <hi>Paul</hi> and his Accu<g ref="char:EOLhyphen"/>sers Face to Fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, in matter of Religion: And <hi>Faelix</hi> the Governour sa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to <hi>Paul, <hi>I will bear thee when thine Ac<g ref="char:EOLhyphen"/>cusers are also come.</hi>
+               </hi> So we see that <hi>Faelix</hi> the Governour, did not hear <hi>Paul</hi> till his Accusers were come Face to Face, <hi>Acts</hi> 23.35. And after five days, <hi>Ananias</hi> the High Priest d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scended with the Elders, and with a certain Orator, called <hi>Tertullus,</hi> and said to the Governour <hi>Faelix, We have found this
+<pb n="4" facs="tcp:32854:3"/> Man</hi> (namely <hi>Paul) a pestilent Fellow, and a m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver of Sedition a<g ref="char:EOLhyphen"/>mong all the Jews throughout the world, and a Ringleader of the S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct of the</hi> Nazareens. Here this Governour <hi>Fael<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x</hi> heard <hi>Paul</hi> and the Chief Priests, False Accusers, and Witnesses against him in matters of Religion, Face to Face. But <hi>Paul</hi> cleared himself from their False Accusation before them, <hi>Acts</hi> 24. whole Chap. And when the High Priests and Chief of the <hi>Jews,</hi> Informed <hi>Festus</hi> against <hi>Paul</hi> at <hi>Jerusalem,</hi> behind his back, when <hi>Paul</hi> was at <hi>Caesarea</hi> a Prisoner; <hi>Festus</hi> did not make a Conviction of it behind <hi>Pauls</hi> back, upon the High Priests and Chief of the <hi>Jews</hi> Information. But <hi>Festus</hi> answered them like a Wise Man, and said, <hi>Go down to</hi> Caesarea, <hi>which among you are a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, and accuse this Man,</hi> to wit, <hi>Paul.</hi> So they went to <hi>Caesarea,</hi> and laid grie<g ref="char:EOLhyphen"/>vous Complaints against <hi>Paul,</hi> which they could not prove.</p>
+            <p>So here you may see, <hi>Festus</hi> did hear <hi>Paul</hi> and his Accusers, in Matters of Re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion and Worship, Face to Face. And <hi>Festus</hi> said to King <hi>Agrippa; When I was at</hi> Jerusalem, <hi>the Chief Priest<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Elders of the</hi> Jews <hi>Informed me against</hi> Paul, <hi>and desired to have Judgment against him. To whom I answered, 'Tis not the manner of the</hi> Romans <hi>to deliver a Man to die, before he that is <hi>Accused</hi> have his <hi>Accusers</hi> Face to Face, and have license to <hi>Answer</hi> for him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>f concerning the Crimes laid against him.</hi> So these made not Convictions behind back.</p>
+            <p>And here you may see, the Chief Priests and Elders of the <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ws,</hi> would have acted contrary to their own Law, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Law of God, (for <hi>Nicodemus</hi> saith, <hi>Doth our Law judge a Man before it hear<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him?</hi>) and contrary to the <hi>Roman</hi> Law, which <hi>doth not judge a Man, before his Accusers be brought Face to Face, and he to answer for hims<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf,</hi> as you may see <hi>Acts</hi> 25. to the end. And <hi>Festus</hi> said to King <hi>Agrippa, That after Examination,</hi> (namely, hearing of both parties Face to Face) <hi>it s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em'd to him a thing unreas<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nable to send a Prisoner to</hi> Augustus Caesar, <hi>and not withal to signify the Crimes laid aga<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st him,</hi> Acts 25.26.</p>
+            <pb n="5" facs="tcp:32854:3"/>
+            <p>So if the Law of God in the Old Testament, and the Roman Law, did hear Men Face to Face, concerning matters of Out<g ref="char:EOLhyphen"/>ward things and Religion, (for <hi>Pauls</hi> case was a matter of Reli<g ref="char:EOLhyphen"/>gion, and in this the <hi>Roman</hi> Captain and the Governours did hear <hi>Paul</hi> and his Accusers Face to Face, before they made a Con<g ref="char:EOLhyphen"/>viction, or sent <hi>Paul</hi> to <hi>Caesar</hi>) then surely <hi>Christians</hi> should not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct below the Law of God and the <hi>Roman</hi> Laws, to Convict People behind their backs; so that they cannot hear nor see their Accusers Face to Face, till after Conviction,</p>
+            <p>And likewise in <hi>Acts</hi> 6.7. The Chief Priests heard <hi>Steven</hi> and the False Witnesses against him Face to Face, in matters concerning Religion, before they stoned him to Death. But in <hi>Acts</hi> 25.15. The Chief Priests and Elders were so envious and mad, that they would have had Judgment of <hi>Festus</hi> against <hi>Paul</hi> beh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his back. But <hi>Festus</hi> answered, <hi>'Tis not the manner of the</hi> Romans, <hi>&amp;c. before he that is accused have his Accusers Face to Face, and license to answer for himself, concerning the Crimes laid against him.</hi>
+            </p>
+            <p>And therefore we do intreat you to consider us in these things; and let not Convictions be made upon u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>behind our backs,</hi> by such as we know not what qualities they be of, nor who they are; but let our Con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ictions be Face to Face, that we may be heard <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore we be Convicted, according to the <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w of God,</hi> and the <hi>Romans Law,</hi> which is but reason. And it is commonly said, <hi>That the Laws of the Land, are grounded upon the Law of God, Scrip<g ref="char:EOLhyphen"/>ture and Reason.</hi>
+            </p>
+            <p>In <hi>Gen.</hi> 3.9, to 19. you may see, after <hi>Adam</hi> and <hi>Eve</hi> had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ransgressed the command of God, how the Lord examined them, and heard what they could say for themselves, before he passed Sentence on <hi>Adam</hi> and <hi>Eve,</hi> and upon the <hi>Serpent.</hi> And not only so, but he said, <hi>The Seed of the Woman shall bruise the Serpents head.</hi> Christ Jesus, who through Death destroyes Death that Man and Woman were bro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght into, by eating
+<pb n="6" facs="tcp:32854:4"/> that which God forbad. And likewise destroyes the Devil, the power of Death: <hi>For as in Adam all dies; even so in Christ shall all be made alive,</hi> 1 Cor. 15.22.</p>
+            <p>And in <hi>Gen.</hi> 4 9, to 16. you may see, the Lord examined <hi>Cain,</hi> and asked him, <hi>Where is</hi> Abel <hi>thy Brother?</hi> after he had killed him, and the Lord said, <hi>What hast thou done? The Voice of thy Brothers Blood cryeth unto me from the Ground;</hi> which was a Witness against <hi>Cain.</hi> And so here yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may see the Lord examined <hi>Cain,</hi> before he made a Conviction upon him, and Condemned him. And do you think the Lord could not have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondemned <hi>Cain,</hi> and have passed Sentence u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, without asking where his Brother <hi>Abel</hi> was; but to give Example?</p>
+            <p>And in <hi>Gen.</hi> 6. <hi>God looked upon the Earth, and behold it was Cor<g ref="char:EOLhyphen"/>rupted. For all Flesh had corrupted his way upon the Earth.</hi> And the Lord said, <hi>My Spirit shall not alwa es strive with Man,</hi> &amp;c. <hi>I will destroy Man, whom I have created, from the face of the Earth.</hi> Here the Lord look't upon them, and strove with them, before he de<g ref="char:EOLhyphen"/>stroyed them.</p>
+            <p>And in <hi>Gen.</hi> 11. when <hi>Nimrod</hi> and his Company were b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ild<g ref="char:EOLhyphen"/>ing of <hi>Babel,</hi> the Lord God said, <hi>Behold, the People are one, and they have all one Language, and this they begin to do; and now nothing will be restrained from them, which they imagine to do</hi> And the Lord said, <hi>Go to, let us <hi>go down,</hi> and <hi>There</hi>
+               </hi> [Mark, <hi>There] <hi>con<g ref="char:EOLhyphen"/>found their Language, that they may not understand one anothers Speech.</hi>
+               </hi> So the Lord confounded and scattered them over all the Face of the Earth. So here you may see what the Lord said, <hi>Let us go down, and there confound their Languages.</hi> So he confo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded them, and scattered them abroad upon the face of all the Earth.</p>
+            <p>And in <hi>Gen.</hi> 13.13. <hi>The Men of</hi> Sodom <hi>were Wicked and Sin<g ref="char:EOLhyphen"/>ners before the Lord exceedingly.</hi> And in <hi>Gen.</hi> 18.20, 21. The Lord said, <hi>Because the cry of the City of</hi> Sodom <hi>is great, and because their Sin is grievous, I will <hi>go down, know,</hi> and <hi>see,</hi> whether they have done altogether according to the Cry of it, which is come unto
+<pb n="7" facs="tcp:32854:4"/> me. If not, <hi>I will know.</hi>
+               </hi> Now 'tis said in the Margin, <hi>God speaketh after the f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> That is, <hi>I will enter into Judgment with good advice.</hi>
+            </p>
+            <p>Here yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may see, before the Lord did destroy <hi>Sodom,</hi> he said, <hi>I will go down a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, whether they have done altogether according to the Cr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, which is come to me. If not, I will know.</hi> And do you think any th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng was hid from the Lord, concerning <hi>Sodom</hi> before? But th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord wou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d manifest his Righteous and Just Proceedings unto the Eyes o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men.</p>
+            <p>And when <hi>Tamer</hi> was accused as being with Child by Whore<g ref="char:EOLhyphen"/>dome, <hi>Judah</hi> said, <hi>Bring her forth, and let her be burned. And when she was brought forth, she Convicted</hi>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udah <hi>with his Signet, Brace<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and Staff.</hi> Which made <hi>Judah</hi> confess, <hi>That</hi> Tamar <hi>was more Rig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teous than he.</hi> So 'tis not good to make Convictions, and give Judgment behind Peoples backs, lest they be made to con<g ref="char:EOLhyphen"/>fess as <hi>Judah</hi> did, <hi>They whom they make Convictions or give their Judgments agai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st behind their backs, are more Righ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eous then th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y who judge them.</hi>
+            </p>
+            <p>But we do think it very hard, that several <hi>Justices of Peace</hi> should make so many Convictions in some places behind our backs, without hearing us and our Accusers and Witnesses Face to Face, who if they did hear us Face to Face, we do believe it would ease the <hi>Sessions</hi> of a great dea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Trouble, and prevent many False Swearers against us, as hath been proved in some Courts; which hath put us to a great deal of Trouble and Charges in the Tryal of our Appeals. And when they have been cast, &amp; proved forsworn, we have had little relief against them as yet: But the <hi>In<g ref="char:EOLhyphen"/>formers</hi> have gone on still But if we were but heard before Conviction, it might prevent many <hi>False Oaths,</hi> &amp; the Trouble at your <hi>Sessions,</hi> &amp; a great deal of Charges we are put unto. So we shall leave all those things to your weighty Consideration, and desire that the Lord may give you Wisdom and Understanding to hear and judge of our <hi>Suffering Case.</hi>
+            </p>
+            <closer>
+               <signed>From the People called <hi>Quakers,</hi>
+               </signed>
+               <dateline>
+                  <date>first Moneth, 1684.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
